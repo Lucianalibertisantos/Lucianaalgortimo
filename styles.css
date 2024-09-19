@@ -14,3 +14,11 @@ color: blanchedalmond;
 font-family: Arial, Helvetica, sans-serif;
 }
 
+
+.passo{
+    display: nome;
+}
+
+.passo.ativo{
+    display: block;
+}
